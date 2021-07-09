@@ -1,1 +1,1 @@
-# Hackathon
+WCE Hackathon
